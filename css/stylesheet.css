@@ -13,11 +13,6 @@ h1 {
   text-transform: uppercase;
 }
 
-h1:hover {
-  color: #c00;
-  cursor: default;
-}
-
 #wrapper {
   width: 960px;
   margin: 0 auto;
