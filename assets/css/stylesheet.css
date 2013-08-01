@@ -7,12 +7,6 @@ html, body {
   padding: 0;
 }
 
-h1 {
-  word-spacing: 15px;
-  font: 36px/30px "Gill Sans", Futura, Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-}
-
 #wrapper {
   width: 960px;
   margin: 0 auto;
@@ -25,6 +19,10 @@ h1 {
   text-align: center;
   margin: 0 auto;
   padding: 80px;
+}
+
+.logo {
+  width: 40%;
 }
 
 .list {
